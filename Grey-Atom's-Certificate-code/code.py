@@ -7,7 +7,7 @@ class_2=['Hilary Mason','Carla Gentry','Corinna Cortes']
 # Concatenate both the strings
 new_class=(class_1+class_2)
 # Append the list
-new_class.insert(2,'Peter Warden')
+new_class.append('Peter Warden')
 # Print updated list
 print(new_class)
 # Remove the element from the list
